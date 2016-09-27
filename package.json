@@ -1,0 +1,10 @@
+{
+  "name": "pluralapi",
+  "version": "0.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "~4.13.4",
+    "mongoose":"*"
+  }
+}
